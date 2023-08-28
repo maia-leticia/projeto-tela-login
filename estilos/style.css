@@ -85,7 +85,7 @@ form > .campo{
     background-color: #6eccc9;
     height: 100%;
     width: calc(100% - 44.5px);
-    transform: translateY(-12.5px);
+    transform: translateY(-12px);
     padding: 4px;
     border-radius: 8px;
     border: none;
