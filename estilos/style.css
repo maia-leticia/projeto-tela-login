@@ -88,7 +88,7 @@ form > .campo{
     padding: 4px;
     border-radius: 8px;
     border: none;
-    transform: translateY(-12px);
+    transform: translateY(-12.5px);
 }
 
 input:focus-within{
