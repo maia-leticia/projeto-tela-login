@@ -8,6 +8,7 @@
     
     #login{
         width: 80vw;
+        height: 360px;
     }
 
     #foto{
@@ -21,6 +22,20 @@
         width: 65%;
         height: 100%;
     }
+
+    
+    #formulario p{
+        font-size: 1em;
+        margin: 10px 0px;
+    }
+
+    form{
+        margin-top: 30px;
+    }
+
+    form input[type=submit]{
+        margin-top: 15px;
+    }
 }
 
 @media screen and (min-width: 992px){
@@ -31,17 +46,35 @@
     
     #login{
         width: 950px;
+        height: 400px;
     }
 
     #foto{
-        float: left;
+        float: right;
         height: 100%;
         width: 50%;
     }
 
     #formulario{
-        float: right;
+        float: left;
         width: 50%;
         height: 100%;
     }
+
+    #formulario h1{
+        font-size: 1.7em;
+    }
+    
+    #formulario p{
+        font-size: 1.2em;
+    }
+
+    form{
+        margin-top: 30px;
+    }
+
+    form input[type=submit]{
+        margin-top: 20px;
+    }
+
 }
