@@ -65,7 +65,7 @@ main{
 
 form > .campo{
     background-color: #5f2c82;
-    border: 2px solid #5f2c82;
+    border: 3px solid #5f2c82;
     border-radius: 8px;
     margin: 
     5px 0px;
@@ -77,7 +77,7 @@ form > .campo{
     color: white;
     font-size: 2em;
     width: 40px;
-    padding: 5px;
+    padding: 4px;
 }
 
 .campo input{
@@ -85,7 +85,7 @@ form > .campo{
     background-color: #6eccc9;
     height: 100%;
     width: calc(100% - 44.5px);
-    transform: translateY(-13px);
+    transform: translateY(-12.5px);
     padding: 4px;
     border-radius: 8px;
     border: none;
